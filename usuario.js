@@ -1,5 +1,5 @@
-let inicio = ['juan.pizo.ueb@gmail.com']; //hacemos el arreglo unidimensional guardamos los datos asignados
-let password = ['1033098102'];
+let inicio = ['usuario@gmail.com']; //hacemos el arreglo unidimensional guardamos los datos asignados
+let password = ['123456789'];
 
 function loguear(){
     let usuario=document.getElementById("correo").value; //creamos variables y los llamamos desde el id del html para que tomen la funcion de esa variable
@@ -11,5 +11,5 @@ function loguear(){
     }
     else
     {
-        alert("DATOS ERRONEOS")//mensaje de alerta cuando el usuario o persona no ingresa los datos correctos
+        alert("DATOS ERRONEOS");//mensaje de alerta cuando el usuario o persona no ingresa los datos correctos
     }
