@@ -13,5 +13,4 @@ function cargar(){
     {
         alert("DATOS ERRONEOS");//mensaje de alerta cuando el usuario o persona no ingresa los datos correctos
     }
-
 }
